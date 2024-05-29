@@ -1,6 +1,6 @@
-# Islam4Pacifica
+# Islam4Pasifika
 
-A [Littlelink](https://github.com/sethcottle/littlelink) for Islam4Pacifica. 
+A [Littlelink](https://github.com/sethcottle/littlelink) for Islam4Pasifika. 
 
 ## License
 
